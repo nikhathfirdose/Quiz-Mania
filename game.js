@@ -66,7 +66,7 @@ getNewQuestion = () => {
   if (availableQuestions.length === 0 || questionCounter >= maxQuestion) {
     localStorage.setItem("mostRecentScore", score);
     console.log(window);
-    return window.location.assign("/end.html");
+    return window.location.assign("./end.html");
   }
   questionCounter++;
   // console.log(progressBarFull);
