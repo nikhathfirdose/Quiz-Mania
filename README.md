@@ -1,6 +1,6 @@
 "# Quiz-Mania" 
 
-A quiz app built with plain JS, which loads basic Computer software questions with multiple choice answers. It also displays the Top 5 players on leader board
+A quiz app built with plain JS, which loads basic Computer software questions with multiple choice answers. It also displays the Top 5 players on leader board. The questions and  choices are displayed on the app by making an api call used from "Open Trivia DB" and with every load the order of displayed options keep changing randomly.
 <h1> Screenshots: </h1>
 
 
