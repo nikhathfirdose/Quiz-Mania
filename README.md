@@ -1,8 +1,8 @@
-"# Quiz-Mania" 
+<h1> Quiz-Mania </h1>
 
 A quiz app built with plain JS, which loads basic Computer software questions with multiple choice answers. It also displays the Top 5 players on leader board. </br> 
 The questions and  choices are displayed on the app by making an api call used from "Open Trivia DB" and with every load the order of displayed options keep changing randomly.
-<h1> Screenshots: </h1>
+<h2> Screenshots: </h2>
 
 
 ![Home](https://user-images.githubusercontent.com/40733044/88418141-b928c480-ce00-11ea-9c6c-e36dd390be06.png)
